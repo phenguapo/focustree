@@ -1,5 +1,5 @@
 # focustree
-#THE .EXE VERSION OF THIS REPO (CREATED USING PYINSTALLER AND MEANT TO BE RUN ON COMPUTERS WITHOUT PYTHON AND THE MODULES USED INSTALLED) IS LOCATED HERE: https://github.com/phenguapo/focustree-exe
+# THE .EXE VERSION OF THIS REPO (CREATED USING PYINSTALLER AND MEANT TO BE RUN ON COMPUTERS WITHOUT PYTHON AND THE MODULES USED INSTALLED) IS LOCATED HERE: https://github.com/phenguapo/focustree-exe
 
 - Small project i started as a way to learn tkinter and make something useful for myself. 
 - The project started from the need to measure my breaks and study time without using the windows "Focus" mode, and making something fun while i'm at it.
