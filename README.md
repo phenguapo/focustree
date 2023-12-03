@@ -5,4 +5,4 @@
 
 - Icon was made by me. The notification sound is "Bubble pop up alert notification" and it was downloaded from mixkit (https://mixkit.co/free-sound-effects/notification/). This project is NON-PROFIT and all copyrights for the notification sound go straight back to its creator. If any person or entity has any inquiry for it they can get in touch with me through dms or email!
 
--only thing needed is tkinter and python 3.12+
+- only thing needed is tkinter and python 3.12+
